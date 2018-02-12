@@ -22,7 +22,7 @@
     },
     "require": {
         "php": "^5.5 || ^7.0",
-        "denlapaev/exchanger": "dev-master#84e94b2309deee75acb373aeb7953d341ff669aa"
+        "denlapaev/exchanger": "dev-master#b2e3cfaa9c22c3359bc412743fc48fea4d672971"
     },
     "require-dev": {
         "phpunit/phpunit": "^4.8 || ^5.4",
